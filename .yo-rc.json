@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "AELB - ALM",
+    "packageVersion": "1.0.0",
+    "revealTheme": "default",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "jeromethibault",
+    "githubRepository": "prez-aelb-alm"
+  }
+}
