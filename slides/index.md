@@ -1,10 +1,4 @@
 
-# AELB - ALM
+# Atos
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+Awesome slide template for Atos
